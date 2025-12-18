@@ -1,3 +1,3 @@
 # project
-my first repository
-author - Akshit chauhan
+my first repository.
+Author - Akshit chauhan
